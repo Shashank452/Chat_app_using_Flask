@@ -1,4 +1,4 @@
-# Chatter-Box
+# Chat-App
 
 Chatter-Box is a lightweight and easy-to-use real-time chat application built using Flask and Flask-SocketIO. It allows users to create or join chat rooms and communicate seamlessly with others in real time.
 
