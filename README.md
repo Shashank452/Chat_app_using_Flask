@@ -20,8 +20,8 @@ Chat-App is a lightweight and easy-to-use real-time chat application built using
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ajaythandavamurthy/messanger-chatting.git
-    cd messanger-chatting
+    git clone https://github.com/Shashank452/Chat_app_using_Flask.git
+    cd Chat_app_using_Flask
     ```
 
 2. Install the required dependencies:
@@ -52,7 +52,7 @@ Chat-App is a lightweight and easy-to-use real-time chat application built using
 ## Folder Structure
 
 ```plaintext
-Chatter-Box/
+Chat_app_using_Flask/
 ├── main.py                # Main application file
 ├── templates/
 │   ├── base.html         
